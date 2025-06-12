@@ -15,7 +15,7 @@
   "type": "module",
   "main": "main.ts",
   "scripts": {
-    "dev": "npx tsx main.ts",
+    "dev": "npx tsx ./app/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
