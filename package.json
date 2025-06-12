@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^2.5.0",
+    "@mistralai/mistralai": "^1.7.2",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "groq-sdk": "^0.24.0",
+    "openai": "^5.3.0",
+    "tsx": "^4.20.2",
+    "typescript": "^5.8.3"
+  },
+  "name": "slaved",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "npx tsx main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
